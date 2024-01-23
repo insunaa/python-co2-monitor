@@ -1,9 +1,6 @@
-# node-co2-monitor
+# python-co2-monitor
 
-Node.JS library for reading CO2 concentration and indoor temperature from TFA Dostmann AirCO2NTROL Mini.
-
-[![npm](https://img.shields.io/npm/v/node-co2-monitor.svg)](https://www.npmjs.com/package/node-co2-monitor)
-[![npm downloads](https://img.shields.io/npm/dm/node-co2-monitor.svg)](https://www.npmjs.com/package/node-co2-monitor)
+Python library for reading CO2 concentration and indoor temperature from TFA Dostmann AirCO2NTROL Mini.
 
 ## Contents
 
@@ -22,12 +19,7 @@ Node.JS library for reading CO2 concentration and indoor temperature from TFA Do
 * [TFA Dostmann AirCO2NTROL Mini - Monitor CO2 31.5006](https://www.amazon.de/dp/B00TH3OW4Q)
 
 
-## Install
-
-```bash
-npm install node-co2-monitor
-```
-
+# TO BE UPDATED
 
 ## Getting started
 
